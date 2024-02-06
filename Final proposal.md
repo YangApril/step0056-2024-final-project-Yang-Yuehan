@@ -28,6 +28,7 @@ Previous analyses have focused on descriptive statistics of cases and deaths, tr
 3. How do socioeconomic factors influence the effectiveness of different interventions?
 
 # Why is what you are doing different from other analyses and visualizations you have found? How does this data exploration contribute to answering your questions (again relative to other work)?
+I mainly want to supplement the data analysis by adding financial data such as the global GDP to explore the impact of the New Crown Pneumonia on the global economic development. And using the United States as an example, focusing on the analysis of that country.
 
 # Reference List
 Wang, Y., Yan, Z., Wang, D. et al. (2022). 'Prediction and analysis of COVID-19 daily new cases and cumulative cases: times series forecasting and machine learning models.', BMC Infectious Diseases 22(1), pp.495. doi. 10.1186/s12879-022-07472-6
